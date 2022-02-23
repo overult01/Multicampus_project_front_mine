@@ -1,0 +1,8 @@
+th, td{
+    text-align: center;
+}
+
+#close_btn{
+    align-self: flex-end;
+    margin-left: 390px;
+}
